@@ -10,6 +10,8 @@ based on their physical measurements, without using the species labels.
 - Choosing the number of clusters using the Elbow Method (WCSS)
 - Training a K-Means model with 3 clusters
 - Comparing the discovered clusters against the true species (~88% match)
+- - Evaluating clusters with the Silhouette score
+- Comparing K-Means with hierarchical (Agglomerative) clustering
 
 ## Files
 - `seeds_kmeans.ipynb`: the notebook
