@@ -14,6 +14,7 @@ based on their physical measurements, without using the species labels.
 ## Files
 - `seeds_kmeans.ipynb`: the notebook
 - `seeds.csv`: the dataset
+- `seeds_kmeans_hierarchical.ipynb`: K-Means vs hierarchical clustering with Silhouette score
 
 ## Tools
 Python, pandas, scikit-learn, matplotlib
